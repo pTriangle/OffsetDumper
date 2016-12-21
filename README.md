@@ -1,2 +1,1 @@
-# OffsetDumper
-Extracts data from a file and dumps data from a starting offset to an ending offset.
+Extracts data from a file using a specified range [startoffset, endoffset] and prints it to screen.  It also writes extracted data to a text file, and produces a binary output in case you wanted to throw it into a HEX Editor for further analyzing for whatever purpose.
